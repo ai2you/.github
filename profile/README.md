@@ -1,6 +1,6 @@
 # AI2You 
 
-	A software solution based on AI
+> A software solution based on AI
 
 We have some awesome products to come in the future. Stay tuned!
 
